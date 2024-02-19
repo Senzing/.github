@@ -1,5 +1,3 @@
 # Default code owner
 
-* @senzing/build
-
-/.github/ @senzing/senzing-devsecops
+* @senzing/senzing-devsecops
