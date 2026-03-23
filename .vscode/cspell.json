@@ -5,12 +5,13 @@
     "CCLA",
     "CODEOWNER",
     "cooldown",
-    "esbenp",
     "gazoink",
     "gerble",
     "ICLA",
     "kernelsam",
     "Senzing"
   ],
-  "ignorePaths": [".git/**"]
+  "ignorePaths": [
+    ".git/**"
+  ]
 }
